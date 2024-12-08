@@ -1,0 +1,37 @@
+{
+    "timezone": "Europe/Paris",
+    "richPresenceText": "GamBot",
+    "guild": {
+        "GUILD_ID": "1292943094227931137",
+        "TIMEOUT_JOIN": "30m",
+        "COMMANDS_PREFIX": "!",
+        "channels": {
+	        "LEAVE_JOIN_CHANNEL_ID": "1304778828970983474",
+	        "REPORT_CHANNEL_ID": "1304778828970983474",
+	        "LOGS_MESSAGES_CHANNEL_ID": "1304778828970983474",
+	        "LOGS_BANS_CHANNEL_ID": "1304778828970983474",
+            "LOGS_ROLES_CHANNEL_ID": "1304778828970983474",
+            "MEDIATION_CHANNEL_ID": "1304778828970983474",
+            "CONFIG_CHANNEL_ID": "null",
+            "UPGRADE_CHANNEL_ID": "null",
+            "BLABLA_CHANNEL_ID": "1292943094794424385",
+            "FREE_GAMES_CHANNEL_ID": "1304778828970983474"
+        },
+        "roles": {
+            "MEMBER_ROLE_ID": "1304585676473372692",
+            "JOIN_ROLE_ID": "1304585676473372692",
+            "MUTED_ROLE_ID": "1304800395184308275",
+            "STAFF_EDITEURS_ROLE_ID": "1304583610631979129",
+            "MODO_ROLE_ID": "1304587840604213249",
+            "CERTIF_ROLE_ID": "null",
+            "NOTIF_GAMES_ROLE_ID": "null"
+        },
+        "managers": {
+            "VOICE_MANAGER_CHANNELS_IDS": "null",
+            "NOLOGS_MANAGER_CHANNELS_IDS": "null",
+            "NOTEXT_MANAGER_CHANNELS_IDS": "null",
+            "THREADS_MANAGER_CHANNELS_IDS": "null",
+            "FEUR_MANAGER_CHANNELS_IDS": "null"
+        }
+    }
+}
